@@ -1,3 +1,7 @@
+body {
+    background-color: #cccccc;
+}
+
 h1 {
     text-align: center;
 }
@@ -5,4 +9,8 @@ h1 {
 p {
     text-align: center;
     font-size: 20px;
+}
+
+em strong {
+    color: red;
 }
