@@ -1,16 +1,16 @@
-body {
-    background-color: #cccccc;
-}
-
 #banner {
     width: 100%;
+}
+
+.principal {
+    background-color: #cccccc;
 }
 
 h1 {
     text-align: center;
 }
 
-    p {
+p {
     text-align: center;
 }
 
@@ -20,6 +20,14 @@ h1 {
 
 em strong {
     color: red;
+}
+
+.beneficios {
+    background: #ffffff;
+}
+
+h2 {
+    text-align: center;
 }
 
 .itens {
